@@ -1,0 +1,13 @@
+node_modules
+dist
+build
+commitlint.config.js
+eslint.config.mjs
+package.json
+pnpm-lock.yaml
+README.md
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.prettierrc
